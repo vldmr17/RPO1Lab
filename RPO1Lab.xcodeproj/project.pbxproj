@@ -11,6 +11,7 @@
 		848EEC1025DB12310007384F /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 848EEC0F25DB12310007384F /* ContentView.swift */; };
 		848EEC1225DB12340007384F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 848EEC1125DB12340007384F /* Assets.xcassets */; };
 		848EEC1525DB12340007384F /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 848EEC1425DB12340007384F /* Preview Assets.xcassets */; };
+		848EEC2125DEFCF50007384F /* ContentViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 848EEC2025DEFCF50007384F /* ContentViewModel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		848EEC1125DB12340007384F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		848EEC1425DB12340007384F /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		848EEC1625DB12340007384F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		848EEC2025DEFCF50007384F /* ContentViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentViewModel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 			children = (
 				848EEC0D25DB12310007384F /* RPO1LabApp.swift */,
 				848EEC0F25DB12310007384F /* ContentView.swift */,
+				848EEC2025DEFCF50007384F /* ContentViewModel.swift */,
 				848EEC1125DB12340007384F /* Assets.xcassets */,
 				848EEC1625DB12340007384F /* Info.plist */,
 				848EEC1325DB12340007384F /* Preview Content */,
@@ -140,6 +143,7 @@
 			files = (
 				848EEC1025DB12310007384F /* ContentView.swift in Sources */,
 				848EEC0E25DB12310007384F /* RPO1LabApp.swift in Sources */,
+				848EEC2125DEFCF50007384F /* ContentViewModel.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
